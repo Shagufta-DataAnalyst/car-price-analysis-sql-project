@@ -1,11 +1,6 @@
 # car-price-analysis-sql-project
 Create a modern, clean GitHub README banner titled “Car Price Analysis using SQL”. 
-Design style: minimalistic, tech-oriented, blue and purple gradient, flat icons. 
-Include icons representing SQL, database, car analytics, data charts, and insights. 
-Add subtle grid background, smooth lighting, rounded shapes. 
-Text to display: 
-“Car Price Analysis Using SQL”
-“Data Cleaning • EDA • Window Functions • Insights”
+This SQL project analyzes a car sales dataset to identify trends, understand pricing behavior, and explore factors that influence car prices such as brand, mileage, engine size, fuel type, condition, and transmission type.
 
 
 
