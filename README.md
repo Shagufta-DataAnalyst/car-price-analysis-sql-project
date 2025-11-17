@@ -72,8 +72,7 @@ Key Insights:
 
 
 ## 📈 Conclusion
-This project demonstrates advanced SQL skills including data cleaning, querying, aggregations, joins, window functions, and insight generation—ideal for Data Analyst roles.
-
+This project demonstrates advanced SQL skills including data cleaning, querying, aggregations, joins, window functions, and insight generation.
 
 
 ## 👩‍💻 Author
